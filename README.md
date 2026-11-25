@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./222.png" 
+       alt="Environmental Waste Management System"
+       width="100%">
+</p>
 # Environmental Waste Management System
 
 A simple Java-based project designed to manage and organize waste-related information.
